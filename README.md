@@ -1,2 +1,2 @@
 # Lane-Runner
-A simple game creayed 
+"A simple game for kids."
